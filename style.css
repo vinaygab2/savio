@@ -8,12 +8,10 @@ body {
 }
 .content {
     border: 2px solid red;
-    height: 600px;
     margin: 2px;
 }
 .end {
     border: 2px solid red;
-    height: 100px;
     margin: 2px;
 }
 ul {
@@ -30,14 +28,14 @@ ul li {
 }
 .imgHolder {
     background: skyblue;
-    height: 200px;
     margin: 20px 50px 20px 50px;
     text-align: center;
     font-weight: 500;
+    width: 70%;
+    margin: auto;
 }
 .contentStart {
     border: 2px solid red;
-    height: 330px;
     margin: 20px 50px 20px 50px;
 }
 .contentStart p {
